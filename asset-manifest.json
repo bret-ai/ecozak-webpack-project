@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/github.io/ecozak-webpack-project/static/css/main.520b0b2d.css",
+    "main.js": "/github.io/ecozak-webpack-project/static/js/main.5fdcac09.js",
+    "static/js/787.8598055d.chunk.js": "/github.io/ecozak-webpack-project/static/js/787.8598055d.chunk.js",
+    "static/media/SA_White_2x-transformed.png": "/github.io/ecozak-webpack-project/static/media/SA_White_2x-transformed.d0becc6d7f3feda0acc4.png",
+    "static/media/slogan_Wht.svg": "/github.io/ecozak-webpack-project/static/media/slogan_Wht.d2f3336d948a635fe4f0b33095d96aba.svg",
+    "index.html": "/github.io/ecozak-webpack-project/index.html",
+    "static/media/contact_Blk.svg": "/github.io/ecozak-webpack-project/static/media/contact_Blk.936389006a781fba530a6eab95d6bf9a.svg",
+    "main.520b0b2d.css.map": "/github.io/ecozak-webpack-project/static/css/main.520b0b2d.css.map",
+    "main.5fdcac09.js.map": "/github.io/ecozak-webpack-project/static/js/main.5fdcac09.js.map",
+    "787.8598055d.chunk.js.map": "/github.io/ecozak-webpack-project/static/js/787.8598055d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.520b0b2d.css",
+    "static/js/main.5fdcac09.js"
+  ]
+}
