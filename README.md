@@ -1,6 +1,6 @@
-# README Boilerplate
+# README
 
-A template of README best practices to make your README simple to understand and easy to use. 
+This a React SPA for ECOZAK project 
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ A template of README best practices to make your README simple to understand and
 
 ## Installation
 
-Download to your project directory, add `README.md`, and commit:
+Download to your project directory, run the following commands:
 
 ```
    yarn install
@@ -21,7 +21,7 @@ Download to your project directory, add `README.md`, and commit:
 
 ## Usage
 
-Replace the contents of `README.md` with your project's:
+This is a simple landing page made with react-create-app:
 
 - ecozak-webpack-project
 - This is Ecozak onboarding app
@@ -31,7 +31,6 @@ Replace the contents of `README.md` with your project's:
 - Contributing instructions
 - Licence
 
-Feel free to remove any sections that aren't applicable to your project.
 
 ## Support
 
@@ -39,4 +38,5 @@ Please [open an issue](https://github.com/bret-ai/ecozak-webpack-project.git) fo
 
 ## Contributing
 
-Please contribute using [Github Flow](https://github.com/bret-ai/ecozak-webpack-project.git). Create a branch, add commits, and [open a pull request](https://github.com/bret-ai/ecozak-webpack-project.git).
+Please contribute using [Github Flow](https://github.com/bret-ai/ecozak-webpack-project.git). 
+Create a branch, add commits, and [open a pull request](https://github.com/bret-ai/ecozak-webpack-project.git).
